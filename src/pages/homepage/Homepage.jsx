@@ -2,8 +2,9 @@ import React from "react";
 import "./homepage.styles.scss";
 import Directory from "../../Components/directory/Directory";
 
-export const Homepage = () => (
+const Homepage = () => (
   <div className="homepage">
     <Directory />
   </div>
 );
+export default Homepage;
