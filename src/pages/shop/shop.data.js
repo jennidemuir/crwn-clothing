@@ -245,5 +245,3 @@ export const shopData = [
     ],
   },
 ];
-
-
